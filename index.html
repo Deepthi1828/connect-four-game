@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Connect Four</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>CONNECT FOUR</h1>
+
+        <p class="subtitle">
+            GET 4 IN A ROW!
+        </p>
+
+        <div class="game-layout">
+
+            <div class="panel">
+
+                <h3>HOW TO PLAY</h3>
+
+                <p>🔴 You play first</p>
+
+                <p>🤖 AI plays second</p>
+
+                <p>
+                    Connect 4 discs horizontally,
+                    vertically or diagonally to win.
+                </p>
+
+            </div>
+
+            <div class="center-section">
+
+                <div class="top-bar">
+
+                    <h2 id="turn">
+                        🔴 Your Turn
+                    </h2>
+
+                    <button id="restartBtn">
+                        Restart Game
+                    </button>
+
+                </div>
+
+                <div id="board"></div>
+
+            </div>
+
+            <div class="panel">
+
+                <h3>GAME STATS</h3>
+
+                <div class="stats">
+                    <span>Player Wins</span>
+                    <span id="redScore">0</span>
+                </div>
+
+                <div class="stats">
+                    <span>AI Wins</span>
+                    <span id="yellowScore">0</span>
+                </div>
+
+                <div class="stats">
+                    <span>Draws</span>
+                    <span id="drawScore">0</span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="winnerPopup" class="popup hidden">
+
+        <div class="popup-content">
+
+            <h2 id="winnerMessage">
+                Winner!
+            </h2>
+
+            <button id="playAgainBtn">
+                Play Again
+            </button>
+
+        </div>
+
+    </div>
+
+    <canvas id="confettiCanvas"></canvas>
+
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
