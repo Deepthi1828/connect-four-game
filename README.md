@@ -7,16 +7,16 @@ A modern and interactive **Connect Four Game** built using **HTML, CSS, and Java
 
 ## ✨ Features
 
-- 🎯 Player vs AI Gameplay
-- 🧠 Smart AI Opponent
-- 🏆 Win Detection System
-- 🤝 Draw Detection
-- ✨ Winning Disc Highlight Effects
-- 🎊 Confetti Celebration Popup
-- 🔄 Restart & Play Again Options
-- 📊 Real-Time Game Statistics
-- 📱 Fully Responsive Design
-- 🌌 Modern Neon Gaming Interface
+🎯 Player vs AI Gameplay
+🧠 Smart AI Opponent
+🏆 Win Detection System
+🤝 Draw Detection
+✨ Winning Disc Highlight Effects
+🎊 Confetti Celebration Popup
+🔄 Restart & Play Again Options
+📊 Real-Time Game Statistics
+📱 Fully Responsive Design
+🌌 Modern Neon Gaming Interface
 
 ---
 
