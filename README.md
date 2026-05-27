@@ -71,15 +71,21 @@ connect-four-game/
 
 ## 💻 Installation
 
-1. Clone the repository
-
 ```bash
 git clone https://github.com/Deepthi1828/connect-four-game.git
 ```
 
-2. Open the project folder
+```bash
+cd connect-four-game
+```
 
-3. Run `index.html` in your browser
+Then open:
+
+```bash
+index.html
+```
+
+in your browser.
 
 ---
 
