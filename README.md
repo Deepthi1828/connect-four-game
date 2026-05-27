@@ -76,7 +76,7 @@ Add your deployed project link here
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/connect-four-game.git
+git clone https://github.com/Deepthi1828/connect-four-game.git
 ```
 
 2. Open the project folder
