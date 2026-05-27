@@ -91,4 +91,3 @@ git clone https://github.com/your-username/connect-four-game.git
 
 ---
 
-⭐ If you like this project, consider giving it a star on GitHub!
