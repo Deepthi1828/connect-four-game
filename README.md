@@ -65,9 +65,7 @@ connect-four-game/
 
 ## 🚀 Live Demo
 
-```bash
-https://deepthi1828.github.io/connect-four-game/
-```
+🚀 [Play Connect Four Live](https://deepthi1828.github.io/connect-four-game/)
 
 ---
 
