@@ -66,7 +66,7 @@ connect-four-game/
 ## 🚀 Live Demo
 
 ```bash
-Add your deployed project link here
+https://deepthi1828.github.io/connect-four-game/
 ```
 
 ---
